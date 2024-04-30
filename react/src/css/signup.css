@@ -1,0 +1,16 @@
+.role-selection {
+    display: flex;
+    align-items: center;
+    gap: 20px; /* Adjust the spacing as desired */
+    margin-bottom: 10px;
+}
+
+.role-item {
+    display: flex;
+    align-items: center;
+    gap: 5px; 
+}
+
+.role-item input[type="radio"] {
+    margin-right: 5px;
+}
